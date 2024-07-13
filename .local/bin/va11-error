@@ -1,0 +1,2 @@
+#!/bin/bash
+mpv ~/.sounds/menu/error.wav --volume=80

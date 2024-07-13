@@ -1,0 +1,2 @@
+#!/bin/bash
+mpv ~/.sounds/menu/confirm.wav --volume=80

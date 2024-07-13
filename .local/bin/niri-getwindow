@@ -1,0 +1,6 @@
+#!/bin/bash
+while true
+do
+	niri msg focused-window | grep Title | sed 's/Title: //g' | sed 's/\"//g'
+	sleep 0.0416
+done

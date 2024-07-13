@@ -1,0 +1,15 @@
+#!/bin/bash
+
+choice=$(printf '%s\n' "End Session" "Suspend" "Soft Reboot" "Reboot" "Power Off" "Close" | wofi -c ~/.config/wofi/search --sort-order=alphabetical --show=dmenu)
+
+if [[ "$choice" == "End Session" ]]; then
+	niri msg action quit
+elif [[ "$choice" == "Suspend" ]]; then
+	systemctl suspend
+elif [[ "$choice" == "Soft Reboot" ]]; then
+    systemctl soft-reboot
+elif [[ "$choice" == "Reboot" ]]; then
+    systemctl reboot
+elif [[ "$choice" == "Power Off" ]]; then
+    systemctl poweroff
+fi

@@ -1,0 +1,10 @@
+mode=drun,run
+term=alacritty
+hide_scroll=false
+insensitive=true
+height=45%
+width=20%
+prompt=Search...
+allow_markup=true
+columns=1
+hide_search=true

@@ -1,0 +1,2 @@
+#!/bin/bash
+mpv ~/.sounds/menu/close.wav --volume=80

@@ -1,0 +1,29 @@
+* {
+	font-family: SCE-PS3 Rodin LATIN;
+	font-size: 20
+}
+
+window {
+	background-color: rgba(0, 0, 0, 0.0);
+	border-left: 1px solid #657b83;
+	border-right: 1px solid #657b83;
+	border-top: 1px solid #657b83;
+	border-bottom: 1px solid #657b83;
+	border-radius: 0px;
+}
+
+#input {
+	color: #657b83;
+	background-color: rgba(0, 0, 0, 0.0);
+	border-radius: 0px;
+	border-color: #657b83;
+}
+
+#entry:selected {
+	color: #657b83;
+	background-color: rgba(0, 0, 0, 0.0);
+	border-left: 1px solid #657b83;
+	border-right: 1px solid #657b83;
+	border-top: 1px solid #657b83;
+	border-bottom: 1px solid #657b83;
+}

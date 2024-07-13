@@ -1,0 +1,10 @@
+So uh, small rant.
+
+R2ModMan and it's consequences have been a disaster for ULTRAKILL modders.
+
+In case you're unaware r2modman is a GUI for managing mods in various Unity games, 
+such as Risk of Rain 2 and ULTRAKILL. On the surface, it's a neat little tool that
+makes modding these games much more accessible, and makes managing your mods easier.
+
+It is unforunate then, that I must say it creates more confusion and problems than
+it helps to solve.

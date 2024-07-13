@@ -1,0 +1,756 @@
+
+Bass's Music Pack ver. 2.0
+
+Note: I opted to replace music slots to avoid any possible hang-ups when playing online.
+To avoid any risk of getting flagged/banned. While also ensuring other players aren't inconvenienced,
+by having to play matches with no bgm. Due to having music over new slots, which is the case with sm5shmusic.
+
+Menu Themes
+==========
+CRS2_00b_en Lifelight - Ordinary Days V2/Lethal League Blaze
+CRS2_01 Menu/SSBU
+ >K-Bump/Ethereal Universe (Private version of the pack)
+ >HDR Main Theme/Tempxa (Public version of the pack)
+CRS2_00a_jp Lifelight (JP) - Task Force Neutron/Astral Chain
+CRS01 Menu (3DS/Wii U) - Clash/Caravan Palace
+CRS2_38 Spectate - Pause 1 Interlude/TeknaloG
+CRS07 Online Practice Stage (3DS/Wii U) - Cheesecake Land/Ethereal Universe
+CRS19 Trophy Shop - Titanic Tower Act 3/Sonic:BtS
+CRS25 Credits (3DS/Wii U) - Project M Theme Remix/NyxtheShield
+CRS31 Smash Tour: Map - Credence/Mutt
+X21 Coin Launcher - Girl/Scullious
+X23 Stage Builder - Redial (Game & Sound Cover)/Bomberman Hero
+W33 Menu 2 (Melee) - Specialist/Persona 4
+X01 Main Theme (Brawl) - Actor's Anteroom/Melty Blood: Actress Again
+CRS23 How to Play (Melee) - Zero Gravity/ Sonic Riders: Zero Gravity
+CRS36 Events - Them's Fightin' Words/Skullgirls
+X07 Online Practice Stage (Brawl) - Fast Lane/Fast RMX
+X27 Credits (Brawl) - Empty Mind/Tekken 7
+W30 Menu (Melee) - Wii Shopping Channel Remix/Nicky Flowers 
+X02 Menu (Brawl) - File Select/Shantae and the Pirate's Curse
+*New* CRS2_48 The Light Realm: March - Funky Fireman/Dubtendo
+*New* CRS2_47 Main Theme Piano Solo - Rhode Beatje/Klaus Veen
+T27 Credits (64)
+ >K-Bump/Ethereal Universe (Public version of the pack)
+ >*New* Flight Club/DJ Cutman (Private version of the pack)
+===========
+
+Misc. Music
+==========
+CRS2_06 Vs Matchup - Pre-Match Jingle/Melty Blood: Actress Again
+CRS2_11 Training Music - Mission Mode Menu/Marvel vs Capcom 3
+CRS2_36 Practice Fights - Training Mode/Pokken Tournament
+CRS2_40 Replay Vault - Gems Museum/Sonic Gems Collection
+CRS24 Vs Results - Ending 2/SF3: 3rd Strike
+============
+
+Smash Series
+============
+Battlefield
+==========
+CRS02 Battlefield (3ds/wiiu) - Black Comet/Shadow the Hedgehog
+CRS2_04 Mob Smash - Battle of Bloom/Sonic Shuffle
+CRS2_47 Main Theme Piano Solo - Fairy Tale Transparency/Melty Blood
+T24 Duel Zone - Iceland/Fast Racing NEO
+W23 Multi-Man Melee - West City/Dragon Ball FighterZ
+W34 Menu, Super Smash Bros Melee (Brawl) - Quicksand/Ethereal Universe
+X25 Battlefield ver. 2 (Brawl) - Toxisphere/Ethereal Universe
+W39 Multi-Man Melee 2 - Eliminator/Sonic Shuffle
+CRS2_16 Classic Mode: Bonus Stage - Tutorial Stage/Sonic vs Darkness True Nightmare Revived
+W35 Battlefield, SSBM (3ds/WiiU remix) - Equator Round 1/Tekken 7
+T23 Bonus Game (SSB) - Jeh Jeh Rocket/Sonic Rush
+X17 Cruel Smash - The Sentients/Hyper Light Drifter
+X18 Boss Battle (Brawl) - Battle Highway/Sonic Battle
+CRS20 Trophy Rush - Sky Traffic/Ethereal Universe
+*New* CRS04 Multi-Man Smash - Cyphernetic Tornado (PSO2 Stage)/Dengeki Bunko Fighting Climax 
+*New* CRS2_13 The Light Realm: Base - Massimo of Steel/Mega Man X Command Mission
+=============
+
+Final Destination
+=========
+CRS03 Final Destination (3DS/WiiU) - For Crimson Air/Melty Blood
+CRS06 Master Core - Egg Dragoon/Sonic Unleashed
+T01 Credits (Brawl) - Phi Battle (Colisseum)/Sonic Battle
+CRS2_42 Crazy Hand - Digital Dimension/Sonic Riders
+CRS2_03 Final Destinataion (ult) - Zamasu Fused/DBFZ
+CRS2_05 Master Hand - Ode to Shattered Illusions/Sonic BtS
+CRS2_43 Master/Crazy Hand - Cosmic Expulsion/Ethereal Universe
+W49 Opening SSBM (Brawl) - Mazzaroth/Ethereal Universe
+CRS2_15 The Final Battle - Soul Zero System 2/Kirby Planet Robobot
+CRS2_21 Galeem/Dharkon - Boss Phase (Eggman)/Sonic vs Darkness: True Nightmare Revived
+CRS26 Final Destination Ver. 2 - S-Tier/OC Remix
+T07 Credits, SSB (3DS/WiiU) - Smash  Superstars (Up Tempo)/ OC Remix
+Y15 Step: Subspace Ver. 3 - World End Roar/ Melty Blood
+T27 Credits, SSB - Planetary Debris/Ethereal Universe
+CRS2_45 The Dark Realm: The Mysterious Space - Tetrahedron/Ethereal Universe
+Y07 Boss Battle Song 2 - Eye of the Storm (Storm Station Boss)/Sonic: AtS
+*New* CRS05 Master Hand (3DS/Wii U) - World's Largest Pogo Stick (Redhot Ride Boss Act)/Sonic: AtS
+*New* CRS2_46 The Final Battle: After the Transformation - The Bio-Terrorist Threat/Infamous Second Son
+============
+
+Yoshi Series
+===========
+W05 Athletic Theme - Battle!/Mario & Luigi: Superstar Saga
+E08 Main Theme - Yoshi's Woolly World Remix- Fight Against an Armed Boss/SMRPG
+E10 Bandit Valley - Beware the Forest Mushrooms/SMRPG
+E07 Yoshi's Island (for 3DS  Wii U) - Aimin' at Your Head/Pretty Lights (YS Melee)
+E11 Main Theme - Yoshi's Woolly World - Game Over/TekNaloG (YS Melee)
+E06 Wildlands - Sloppy Kong/TekNaloG (YS Melee)
+E05 Flower Field - Into the Castle/Tek Nalo G (YS Melee)
+E02 Obstacle Course - I Want to Dance, Because I'm a Hunter/ Monster Hunter Tri
+E09 Main Theme Remix- Yoshi's New Island - Yoshi's Island (Trap Remix)/Ben Briggs
+E12 Main Theme - Yoshi's New Island - Fight Against Smithy/SMRPG
+E03 Yoshi's Island (Brawl) - Popple Battle/Mario & Luigi: Superstar Saga
+============
+
+Animal Crossing Series
+============
+N24 House Preview - Yatterman's Workshop/Tatsunoko vs Capcom (TnC)
+N01 Title Theme/AC:Wild World - Pulse Pounding Battle/Sdorica (TnC)
+N13 Tortimer Island - River King Casino/SkullGirlz (TnC)
+N21 Title Theme/AC (New Remix) - Strange Dreamer/Melty Blood (SV)
+N14 Kapp'n's Song - Dream Over/Sonic Shuffle (SV)
+N15 Plaza/Title Theme - Lurk/Melty Blood (SV)
+N19 Title Theme/Happy Home Designer - Sakura no Uta/Melty Blood (SV)
+N18 Bubblegum KK - Rhythmic Bustle/Melty Blood (SV)
+N02 Go KK Rider - Aint Nothing Like a Funky Beat/Lethal League Blaze (SV)
+N17 Tour - New Meridian/SkullGirlz (TnC)
+N05 The Roost - Glory and Grace (Remix)/Jet Set Radio Future (TnC)
+N06 Town Hall and Nook's Store - Bomber Barbara/Sonic Rush (SV)
+N20 Title Theme/AC - All or Nothing (Storm Station Act 2)/Sonic:Before the Sequel (TnC)
+N03 2:00am - Block Man Stage (Alt Track)/MegaMan 11 (TnC)
+ >*New* Willamette Parkview Mall/Tatsunoko vs Capcom
+N16 Outdoors at 7pm - Neos City (Day)/Pokken Tournament (TnC)
+============
+
+Kirby Series
+=============
+F03 Boss Theme Medley - Boss Theme Remix/Return to Dream Land
+F04 Butter Building (Brawl) - Playa Del Mediterraneao (Perilous Paradise, Act 1)/Sonic:BtS
+F19 Butter Building (3ds) - MOAB (Star Shores, Boss Act)/Sonic:BtS
+F20 DDD Theme (3ds) - King DDD (DnB Remix)/Kirby 
+F42 Kirby Retro Medley -  Vs Nightmare (Boss Battle)/Nightmare in DreamLand
+F08 02 Battle - Zero Two/Kirby 64
+F05 Gourmet Race (Brawl) - Dark Matter Remix/OCRemix
+F30 Ice Cream Island - Forsaken City (Sever the Skyline Mix)/Celeste
+F22 Forest/Nature Area - Pushed By the Waves (Fortress Flow, Act 2)/Sonic:BtS
+F21 Great Cave Offensive - Machine Passage/Kirby Air Ride
+F26 Floral Fields - The Last Battle (Hardcore Mix)/Cave Story
+F37 Crowned Ver 2 - Theme of E-101 Beta/Sonic Adventure
+F31 Citry Trial - Terminal Velocity/Sonic Colors
+F27 Forest Stage - Mute Awakening/Sonic:AtS
+F32 Staff Credits (Kirbys Dream Land) - Galacta Knights Revenge/Return to Dream Land
+F01 Legendardy Air Machine - Crimson Carnival (Eggamn Land, Day)/Sonic Unleashedanywanywanyw
+F11 Frozen Hillside - Deep Core/Sonic Rush Adventure
+W07 Greens Greens (Remix) - Strongest Warrior in the Galaxy/Return to Dream Land
+F28 Planet Popstar - Power Plant Inspection/Planet Robobot
+F23 Celestial Valley - Soul of Sectonia/Triple Deluxe
+F12 Squeak Squad Theme - Dragon Road (Chunan, Night)/Sonic Unleashed
+F29 The World to Win - 6:24 (Danger)/Furi
+F24 The Adventure Begins - Cool Edge (Night)/Sonic Unleashed
+F06 Meta Knight's Revenge - Gravity Remix/Cave Story
+*New* F25 Through the Forest - Modernism Street (ItsJokerable Remix)/Melty Blood
+===========
+
+Wario Series
+============
+M05 Mike's Song (JP) - Cyber Track Zone/Sonic Advance 3
+M01 WarioWare, Inc. - Bad Mario/PM
+M02 WarioWare, Inc. Medley - Mario, Starring Wario/DDR Mario Mix
+M03 Mona Pizza's Song (JP) - Club Wario/WarioWare Inc. (Harmony of Heroes)
+M04 Mona Pizza's Song - Hydrogen/Hotline Miami
+M06 Mike's Song - Techno Base/Sonic Advance 1
+M08 Ashley's Song - Central City/Sonic Battle
+M07 Ashley's Song (JP) -  Club Rouge/Sonic Battle
+M19 Ashley's Song (JP) (for 3DS / Wii U) - EDM Detection Mode/Kevin MacLeod
+ >*New* Plash, Plop, Gurgle/Mad Rat Dead
+M20 Ruins - Wario Land: Shake It! - M.O.D.O.K. Theme/MvC3
+==============
+
+Pokemon Series 
+============
+H17 Route 10 - Pokémon Black / Pokémon White - Aquatic Time/Sonic Riders:Zero Gravity
+H12 Battle! (Reshiram / Zekrom) - Vs Giratina Remix/PKMN (VanilluxePavilion, Bass Edit)
+H06 Victory Road - Pokémon Ruby / Pokémon Sapphire - Indigo Plateau (Hollywood Cinematic Orchestral Ver.)
+H25 Battle! (Island Kahuna) - Aqua/Mag Leader/PKMN Oras
+H23 Battle! (Wild Pokémon) - Pokémon Sun / Pokémon Moon -  Grimsley Battle/PKMN sumo
+H10 Route 209 - Pokémon Diamond / Pokémon Pearl - Type! Boss Battle/PKMN Typing Adventure
+H20 Battle! (Wild Pokémon) - Pokémon X / Pokémon Y - Battle! Gym Leader/PKMN GO
+H04 Pokémon Gym / Evolution - Pokémon Red / Pokémon Blue - Gym/Opponent Select/PKMN GO
+H01 Main Theme - Pokémon Red & Blue (Brawl) - Pressing Pursuit/Phoenix Wright:Apollo Justice
+H30 The Battle at the Summit! -  The Core/Sonic Riders:Zero Gravity
+H19 Battle! (Team Flare) - Team Flare Leader, Lysandre/USUM
+H18 Route 23 -  Pokémon Black 2 / Pokémon White 2 - Dive into Gravity/Sonic Riders:Zero Gravity
+H11 N's Castle - My Pyre Peak (Moombah Core Mix)/PKMN
+H28 Battle! (Trainer) - Pokémon Sun / Pokémon Moon - Vs Trainer Red (Epic DnB Remix)/PKMN
+H22 Battle! (Champion) - Pokémon X / Pokémon Y - Vs Guzma (Kamex Remix)/PKMN SuMo
+H26 Battle! (Gladion) - Vs Gladion (Kamex Remix)/PKMN SuMo
+*New* T15 Main Theme (Red/Blue (64)) - Neos City (Night)/Pokken Tournament
+*New* H03 Road to Viridian City (Red/Blue) - Aquos Arena/Bakugan Battle Brawlers
+*New* H29 Battle! (Lorekeeper Zinnia) - Vs Zinnia (Kamex Remix)/Pokemon OR/AS
+*New* H02 Pokemon Center - Elegy of ZZAZZ/King for Another Day
+*New* W10 Red/Blue Medley - Dr. Doom's Theme/MvC3
+*New* H21 Victory Road (X/Y) - Lusamine Mother Beast/Pokemon Su/Mo
+*New* H05 Battle! Wild Pokemon (R/S) - Conciliation (Theme of Es)/BlazBlue Centrl Fiction
+===============
+
+Star Fox Series 
+===========
+G10 Space Armada - Electric Gravity/DBZ Tenkaichi 2 
+G11 Area 6 Ver. 2 - Star Fox 64 - Paper Engine/F-Zero GX
+G08 Break: Through the Ice - X-Naut Fortress/Paper Mario
+T14 Main Theme - Star Fox 64 (64) - Daitoshi Station/Fast Racing NEO
+W08 Star Fox Medley - Tapaneca Vale/Fast Racing NEO
+G13 Theme from Area 6 / Missile Slipstream - Downpour (Hilltop Heights Zone, Act 2)/Sonic:BtS
+G03 Main Theme - Star Fox 64 (Brawl) - Final Chase/Sonic Adventure 2
+G01 Main Theme - Star Fox - Bahram Battleship/Zone of the Enders: 2nd Runner
+G15 Corneria - Star Fox Zero - For True Story/Sonic Adventure 2
+G04 Area 6 - Star Fox 64 - Twisted Disposition/Ethereal Universe
+G12 Star Wolf's Theme / Sector Z (for 3DS / Wii U) - Meteor Herd/Sonic Adventure 2
+G14 Return to Corneria - Star Fox Zero - Neves/Zone of the Enders: 2nd Runner
+G02 Corneria - Star Fox - Vic Viper/Zone of the Enders: 2nd Runner
+G07 Space Battleground - Supporting Me (Biolizard)/Sonic Adventure 2
+*New* G05 Star Wolf - Challenge~Endless Quest (Stage 3, Danger)/PSO2
+*New* G16 Sector Omega - The Cyber Grind/Ultrakill
+==============
+
+MegaMan Series
+==========
+S02 Air Man Stage - Intruder Alert (DnB Remix)/TF2, Acid-Notation
+S09 Mega Man 3 Retro Medley - Emerl Customization/Sonic Battle
+S15 Bomb Man Stage - Boss Theme (Game Gear)/Sonic 2
+S04 Mega Man 2 Retro Medley - Boss Theme (Master System)/Sonic 2
+S03 Spark Man Stage - Sparkman Breakbeat Remix/MM
+S13 Top Man Stage - Egg Rocket Zone (Classic Mix)/Sonic Advance
+S06 Quick Man Stage - Death Yard Zone/Sonic Rivals
+ >*New* Egg Utopia (Act 1)/Sonic Advance
+S22 We're Robots (Dr. Wily Stage 2) - Boss Navi Battle (DnB Remix, Bass Edit)/MMBN1
+S10 Mega Man 4-6 Retro Medley - Blade Man/MM10
+S05 Cut Man Stage - Blast Man/MM11
+S17 Metal Man Stage - Metal Bladeyard level 3 (Metal Man Remix)/MM, DJtheS
+S26 Flash in the Dark (Dr. Wily Stage 1) - No Turning Back (Dr. Wily Stage 3)/MM10
+S14 Ice Man Stage - Fuse Man/MM11
+S08 Mega Man Retro Medley - Bloody Tears (Retro)/Castlevania
+S01 Mega Man 2 Medley - Boss Theme (DnB Mix)/Megaman Battle Network 1 
+*New* S29 We're Robots (Dr. Wily Stage 2) - X-Zone/Sonic Advance
+*New* S24 Guts Man Stage - Boss Theme (X5)/Mega Man X Legacy Collection
+*New* S25 Hard Man Stage - Trap Phantasm/Mega Man Zero/ZX Legacy Collection
+*New* S28 Zero (Theme of Zero (From MMX)) - Theme of Zero (Reploid Remix)/Mega Man Zero/ZX Legacy Collection
+*New* S29 Shooting Star - Soft Collision/Mighty Switch Force
+*New* S18 Crash Man Stage - Maverick Boss/Meg Man X Command Mission
+*New* S31 Flash Man Stage - Redips 3rd Movement/Mega Man X Command Mission
+*New* S30 Snake Man Stage - Spider Magic/Mega Man X Command Mission
+*New* S20 Gravity Man Stage - Standby Zero/Mega Man X Command Mission
+====================
+
+Final Fantasy Series
+==============
+FF02 Fight On! - Play With Me/Gakuen Toshi Asterisk War
+FF01 Let the Battles Begin! - Paradigm Shift/Final Fantasy XIII-2
+FF05 J-E-N-O-V-A - J-E-N-O-V-A (Dissidia Ver.)/FF Dissidia
+FF08 One-Winged Angel - One-Winged Angel/FF Dissidia
+FF06 Cosmo Canyon - The Savior (Falk Remix)/Lightning Returns: Final Fantasy
+FF10 Those Who Fight Further (AC Version) - Summoned Beast Battle/FFX
+ >*New* High Five/FFVII Remake
+*New* R22 Afternoon on the Island (3DS/Wii U) - Continental Train/Ergheiz: God Bless the Ring (From Other Series playlist, but is meant for FF stages)
+*New* FF07 Aerith's Theme - Due Recompense/FFVII Remake
+=================
+
+Kid Icarus Series
+=============
+P01 Underworld - Blitz/Soul Eater
+P02 Title Theme - Kid Icarus - Chaos Angel Zone (Act 1)/Sonic Advance 3
+P03 Overworld - Dripping Madness/El Shaddai: AttM
+P04 Kid Icarus Retro Medley - Gaia Gate/Sonic Unleashed
+P05 Wrath of the Reset Bomb - From Heaven Above, The Bell Of Hope Echoes/El Shaddai:AttM
+P06 In the Space-Pirate Ship - Heaven and Earth in Resonance/El Shaddai:AttM
+P07 Boss Fight 1 - Kid Icarus: Uprising - Dismiss/Kingdom Hearts 2
+P11 Lightning Chariot Base -  Sinister Shadows/Kingdom Hearts 2
+P12 Destroyed Skyworld - Underworld/Kingdom Hearts 2
+P15 Hades's Infernal Theme - My Innermost Apocalypse/The Binding of Isaac
+P16 Thunder Cloud Temple -  Midtown Roars (Lightning Storm)/Tekken 6
+=====================
+
+Street Fighter Series
+============
+SF07 Guile Stage - Psyche Out (Gil Stage)/3rd Strike
+SF27 M. Bison Stage Type A - Killing Moon (Akuma Stage)/3rd Strike
+SF04a Ken Stage Type B - Kubo (Ryu Stage)/3rd Strike
+SF12 Guile Stage Type B - Jazzy NYC (Ken/Alex Stage)/3rd Strike
+SF19 Dhalsim Stage Type A - You Blow My Mind (Dudley Stage)/3rd Strike
+SF23 Vega Stage Type A - Spunky (Makoto Stage)/3rd Strike
+SF24 Vega Stage Type B - Beats in my Head (Elena Stage)/3rd Strike
+SF11 Guile Stage Type A - Snow Land (Necro/12 Stage)/3rd Strike
+SF08 Vega Stage -  Crowded Street (Yang & Yun Stage)/3rd Strike
+SF09 Blanka Stage Type A - Twilight (Ibuki Stage)/3rd Strike
+SF14 Chun-Li Stage Type B - China Vox (Chun-Li Stage)/3rd Strike
+SF20 Dhalsim Stage Type B - Crazy Chili Dog (Urien Stage)/3rd Strike
+SF05 Ryu Stage - Daigo Temple (Night)/Tatsunoko vs Capcom
+SF06 Ken Stage - Ferrum Dojo/Pokken Tournament
+SF26 Sagat Stage Type B - Zen (Aeropolis)/F-Zero GX
+=============
+
+Pikmin Series
+===========
+L01 World Map - Pikmin 2 - Babylonian/Sonic Riders
+L02 Forest of Hope - Satellite/Flying Lotus
+L03 Environmental Noises - Dry Lagoon/Sonic Adventure 2
+L06 Main Theme - Pikmin - Faron Woods/LoZ:Skyward Sword
+L07 Stage Clear / Title Theme - Floral Creations/El Shaddai:AttM
+L09 Stage Select - Pikmin 2 - Hateno Village Day
+L10 Mission Mode - Pikmin 3 - Invisible Realm/Sonic:BtS
+L11 Garden of Hope - Mii Elf Sister 2/Miitopia
+L12 Garden of Hope - Santalune Forest/Pokemon X/Y
+*New* L15 Flashes of Fear - Spirit Tree/Ori and the Blind Forest
+*New* L16 Fragment of Hope - Silent Forest/Sonic Lost World
+================
+
+Punch-out Series
+============
+Q21 Minor Circuit (Remix) - Startup/ Beatless (Anime)
+R21 Minor Circuit - I Remember (FSG Remix)/DJ Heroes 2
+Q18 Jogging/Countdown - G Corp Helipad Day 1st/ Tekken 7
+R54 World Circuit Theme - Try Unite!/Rinne no Lagrange (Anime)
+R53 Title Theme (Punch-out) - Punch-Out! Remix/Project M
+===================
+
+Game & Watch Series 
+===========
+W14 Flatzone (Melee) - Laundry (Pt. 3)/Neotropic
+R04 Flat Zone 2 - Threed, Zombie Central/Earthbound
+===================
+
+Earthbound Series 
+=============
+W19 Pollyanna (I Believe in You)(Remix) - Another Medium (Acapella)/Undertale
+K05 Humoresque of a Little Dong (Remix) - Death by Glamour (Acapella)/Undertale
+K14 Magicant (New Remix) - Sanctuary Guardian/Earthbound
+W12 Bein' Friends (Remix) - Kraken of the Sea/Earthbound
+K01 Snowman (Remix) - Frostlands/Octopath Traveler
+K13 Onett Theme/Winter Theme (Remix) - Onett Theme/Earthbound
+K15 Fourside (New Remix) - Bonetrousle/Undertale
+K12 Smiles and Tears (Remix) - Battle Against a True Hero/Undertale
+K08 Mother 3 Love Theme (Remix) - Dance to the Death/Kingdom Hearts 2
+K09 Unfounded Revenge/Smashing Song of Praise (Remix) - Rowdy Rumble/Kingdom Hearts 2
+K10 You Call This Utopia?! (Remix) - Severe Person/Melty Blood: Actress Again Current Code
+K07 Porky's Theme (Remix) - Rude Buster (Acapella)/Deltarune Chapter 1
+================
+
+Xenoblade Series
+===========
+R55 Engage the Enemy - Hyperbolic Time Chamber/Dragonball Z
+R56 Time to Fight! (XBC) - Out of Control/DBZ: Budokai Tenkaichi
+R23 Gaur Plain - Granulated Oblivion/DBZ: Budokai Tenkaichi 2
+R57 Gaur Plain (Night) - Lost Courage/DBZ: Budokai Tenkaichi 2
+R36 XBC Medley (Remix) - Another S (Type R)/DBZ: Hyper Dimension 2 (Rukunetsu)
+R58 An Obstacle in Our Path (XBC) - Easy Bean/Grynpyret
+R24 You Will Know Our Names - Atmosia/Multidedem
+R25 Mechanical Rhythm - White Acropolis (Snowy Peak)/Sonic '06
+*New* RR17 Tiger! Tiger! - Kingdom Valley/Sonic '06
+*New* RR16 Xenoblade Chronicles 2 Medley - Sky Babylon (Acts 1&2 Mix)/Sonic Rush Adventure
+*New* RR19 Argentum - Deep in the Mountain and Valley (Arrangement)/Muramasa: Demon Blade
+==================
+
+Metroid Series
+==========
+D11 Title Theme (Metroid, Remix) - Nonaggression Zone/Sonic Advance 3
+W27 Brinstar (Melee, Remix) - Brinstar (Red Soil)/Samus Returns
+D01 Brinstar (Brawl, Remix) - Upper Brinstar/Super Metroid
+ >*New* Vs. Mother Brain (Orchestral Ver.)/Super Metroid
+W04 Brinstar Depths (Melee, Remix) - Kraid's Lair (Orchestral Ver.)/Metroid Series
+D03 Ending (Metroid, Remix) - Sub-Zero, White Knight (Belioros/Barioth)/Monster Hunter Tri
+D18 Vs Ridley (New Remix) - Dark Samus (Fazon Phusion Mix)
+D04 Vs Ridley (Brawl, Remix) - Rundas Battle/Metroid Prime 3 
+D05 Theme of Samus Aran (Remix) - Magma Rift/Sonic Free Riders
+D06 Sector 1 (Remix) - Center of Gravity/Tekken 5: Dark Ressurection
+D07 Opening/Menu (Metroid Prime, Remix) - Metroid Prime Essence/Metroid Prime
+D17 Parasite Queen (New Remix) - Parasite Queen/Metroid Prime
+D10 Multiplayer (MP2: Echoes) - Sound of the Great Mountain (Agnaktor)/Monster Hunter Tri
+D13 Psycho Bits - Burning Depths/Sonic & Allstars:Racing Transformed
+D15 Lockdown Battle Theme - Battle Theme M/Metroid: Other M
+D16 Nemesis Ridley - Crash (Boss Theme)/MegaMan Zero
+D20 Main Theme (Federation Force) - Dungeon 3/Dragalia Lost
+ >*New* Vs. Golzuna/Metroid Dread
+D23 Boss Battle 4 (Samus Returns) - Egg Factory/Sonic Riders
+D21 End Results (Samus Returns) - Red Hot Skull (Red Mt., Act 2)/Sonic Adventure
+*New* T13 Brinstar (64) - Vs. Serris (Arrangement)/Metroid Fusion
+*New* D14 The Burning Lava Fish - Bogey Battle/Vanquish
+==============
+
+Pac-Man Series 
+=============
+V01 PAC-MAN (Remix) - Pac Connection/Pac-Man CE Plus 2
+V02 PAC-MAN (Club Remix) - Pac Level Cap/Pac-Man CE Plus 2
+V03 PAC-MAN'S PARK / BLOCK TOWN - Pac Madness/Pac-Man CE Plus 2
+V11 Galaga Medley (New Remix) - Pac Terror/Pac-Man CE Plus 2
+V12 Mappy Medley (New Remix) - Pac Twin Attack/Pac-Man CE Plus 2
+V04 Libble Rabble Retro Medley - Motor Species/Ridge Racer Type 4
+V05 Metro-Cross Retro Medley - Supercruiser/Ridge Racer 7
+V08 Sky Kid Retro Medley - Galactic Life/Ridge Racer 6
+V13 Area 1 - Dragon Spirit (New Remix) - Disco Ball/Ridge Racer 2 (PSP)
+V06 Namco Arcade '80s Retro Medley 1 - Night Stream/Ridge Racer 2 (PSP)
+V07 Namco Arcade '80s Retro Medley 2 - Thru/Ridge Racer Type 4
+==============
+
+Bayonetta Series 
+============
+BYO1 One of a Kind - Amusement Park/NieR: Automata
+BY05 Red & Black - Bipolar Nightmare/NieR: Automata
+BY06 After Burner (Infinite Climax Mix) - Dark Colossus/NieR: Automata
+BY07 Friendship - Grandma/NieR: Automata
+BY09 The Legend of Aesir - Wretched Weaponry/NieR: Automata
+*New* BY04 Let's Hit the Climax! - Theme of Dante/Marvel vs Capcom 3
+*New* BY11 Time for the Climax! - Lock and Load/Devil May Cry 4
+*New* BY08 Let's Dance, Boys! - Fly Me to the Moon (Climax)/Bayonetta
+===============
+
+Wii Fit Series 
+===========
+R82 Main Menu - Wii Fit (New Remix) - Ordinary Days/Lethal League
+R28 Super Hoop (Remix) - Synthetic Pulse/Tekken 5: Dark Resurrection
+R44 Rhythm Boxing - The Classroom/SkullGirls
+R83 Advanced Step - Euphoria/Rave Racer
+R84 Yoga - Encount/Melty Blood:Actress Again
+R30 Skateboard Arena (Free Mode) (Remix) - Lucid Rhythms/Ridge Racer Type 4
+R45 Mischievous Mole-way - Obscure Zone/Melty Blood:Actress Again
+R29 Wii Fit Plus Medley (Remix) - Silhouette Dance/Ridge Racer Type 4
+R73 Training Menu - Wii Fit U (New Remix) - Sueno Del Mar/Ridge Racer 6
+R46 Core Luge - Silver Stream/Rage Racer
+==============
+
+Sonic Series 
+==========
+U01 Green Hill Zone - Green Hill Zone (Modern)/Sonic Generations
+U02 Scrap Brain Zone - Chemical Plant Zone (Act 2)/Sonic Mania
+U03 Emerald Hil Zone - Big Arm/Sonic Generations 3DS
+U06 Sonic Boom - Flying Battery Zone (Act 2)/Sonic Mania
+U04 Angel Island Zone (Remix) - Sky Sanctuary (Classic)/Sonic Generations
+U07 Super Sonic Racing - SR Sunshine (Remix)/RoBKTA ft Andy Tunstall
+ >*New* Work It Out (Instrumental)/Sonic R
+U08 Open Your Heart - Chaos 6/Sonic Adventure
+U09 Live & Learn - Metal Scratchin'/Sonic Rush
+U14 Escape from the City - Won't Stop, Just Go! (Green Forest)/Sonic Adventure 2
+U10 Sonic Heroes - Bullet Station/Sonic Heroes
+U12 His World (Theme of Sonic the Hedgehog - 2006 E3 Version) - Crisis City (Modern)/Sonic Generations
+U13 Seven Rings in Hand - Let the Speed Mend It/Sonic and the Secret Rings
+U15 Knight of the Wind - Music Plant (Classic Mix)/Sonic Advance 2
+U16 Reach for the Stars - Planet Wisp (Act 1)/Sonic Colors
+U17 Rooftop Run - Stardust Speedway, Bad Future (JPN Ver.)/Sonic Generations
+U18 Wonder World - Sieged Sanctum (Blaze)/Sonic Rush 3 Fan OST
+U19 Windy Hill - Zone 1 - Sweet Mountain (Act 2)/Sonic Colors
+ >*New* Honeycomb Highway/Sonic Lost World
+U21 Fist Bump - Vs. Metal Sonic Remix (US Ver.)/Sonic Forces
+U22 Sunset Heights - Battle With Infinite: First Bout/Sonic Forces
+*New* U20 Lights, Camera, Action! - Metallic Madness Zone (Act 1)/Sonic Mania
+============
+
+F-Zero Series
+=============
+I20 Port Town - Like a Snake (Port Town)/F-Zero GX
+I11 Mute City (for 3DS/Wii U)(Remix) - Babylon Garden/Sonic Riders
+I17 Big Blue - Dimension Theory/Melty Blood: Actress Again
+W11 Big Blue (Melee)(Remix) - Finish Line/XG3: Extreme-G Racing 
+ >*New* Tethra/Extreme-G 2 
+I21 Sand Ocean -  Megalopis 7/XG3: Extreme-G Racing
+I18 Death Wind - Oceania/XG3: Extreme-G Racing
+I22 Silence - Pearl Blue Soul/Ridge Racer Type 4
+I14 Red Canyon - Scorpio Circuit/Fast Racing NEO
+I24 White Land II - Storm Coast/Fast Racing NEO
+I04 Car Select - Zen (Aeropolis)/F-Zero GX
+I05 Dream Chaser - The Haze/Fast Racing NEO
+I06 Devil's Call in Your Heart - Track 1/Extreme-G Racing
+ >*New* EXH Notes/ Ridge Racer 2 (PSP)
+I07 Climb Up! And Get the Last Chance! - Dizzy (Phantom Road)/F-Zero GX
+*New* I12 Mute City - One Ahead System/F-Zero GX
+*New* I01 Mute City (Brawl) - Time for Kill/F-Zero GX
+*New* I23 White Land - Lumania/Extreme-G 2
+*New* I19 Fire Field - Tox City/Extreme-G 2
+============
+
+Donkey Kong Series
+============
+B03 Opening Donkey Kong - K. Rool's Acid Punk (TheUltimateKoopa Remix)
+B13 Donkey Kong Country Returns (Vocals) - Great Temple/Guacamelee
+B09 25M - Sloppy Kong/Nintekdo
+B20 Donkey Kong/Donkey Kong Jr. Medley - Kenshu Jungle/Fast Racing NEO
+B22 The Map Page/Bonus Level - Lost Jungle/Sonic Heroes
+B01 Jungle Level (Brawl) - Lost World (Tricky Maze)/Sonic Adventure
+B26 Ice Cave Chant - Battle (World 4)/Miitopia
+B23 Snakey Chantey - Sand Hill/Sonic Adventure
+B05 King K. Rool/Ship Deck 2 - Sunset Colosseum/Pokemon Battle Revolution
+B06 Stickerbush Symphony - Turn the Tides/Avizura
+B07 Battle for Storm Hill - Tropical Jungle/Sonic '06
+B17 Mangrove Cove - Ancient Breath/Monster Hunter X
+*New* B18 Swinger Flinger - Sealed Ground/Sonic Riders: Zero Gravity
+============
+
+Kingdom Hearts Series
+===========
+KH02 Destiny's Force - Tension Rising/Kingdom Hearts 2
+KH03 Shrouding Dark Cloud - L'Oscurità dell'Ignoto (Xemnas)/Kingdom Hearts 3
+KH04 Hand in Hand - Vector to the Heavens (Xion)/Kingdom Hearts 3
+KH05 Blast Away - Thirteenth Struggle (Luxord)/Kingdom Hearts 3
+KH06 Hollow Bastion - Hollow Bastion ~ Battle Arrangement (Orchestral Ver.)/Kingdom Hearts (Arrg by Jeremiah George)
+KH09 Destati - Wave of Darkness/Kingdom Hearts 3
+===========
+
+Legend of Zelda Series
+===========
+C28 Gerudo Valley - Cazador Del Monstruo/Monster Hunter Tri
+C04 Dark World (Brawl) - Dark World (Vector U Mix)
+C12 Village of the Blue Maiden - Deep in Dark Rust's Fort/Pokemon Rumble Blast
+C20 Overworld & Underworld (3DS/Wii U) - Gigantic Power/Melty Blood: Actress Again
+C14 Termina Field - Final Battle (Drumstep Remix)/LoZ: Ocarina of Time
+C43 Main Theme - Tri Force Heroes - Attack on Vah Medoh/Loz: Breath of the Wild
+C47 Woodlands - Tri Force Heroes - Beast Ganon (Phase 1)/LoZ: Breath of the Wild
+C07 Tal Tal Heights - Forest Del Chivo/Guacamelee
+C44 Molgera (New Remix) - Molgera (DJ-Jo Remix)/LoZ:The Wind Waker
+C35 Hyrule Field Theme - Mii Elf Sister 2/Miitopia
+C18 The Hidden Village - Hateno Village (Day)/LoZ: BotW
+C30 Hyrule Main Theme - Lorule Castle Theme/LoZ: ALBW
+C29 Ballad of the Goddess - Life in Ruins/LoZ: BotW
+C23 Full Steam Ahead (Remix) - Hinox Battle/LoZ: BotW
+C02 Overworld Theme (Brawl) - Boss Theme/Guacamelee
+C26 The Great Sea/Menu Select - Sailing to Scaraba/Earthbound
+C10 Song of Storms - Song of Storms (Custom Deon Mix)/LoZ: OoT
+C03 Great Temple/Temple - Spirit Temple (Orchestral Ver.)/LoZ: OoT
+C46 Termina Field (New Remix) - Thunderstruck/LoZ:OoT
+C33 Overworld Theme - LoZ - Vaati's Wrath (DJ-Jo Remix)/LoZ: The Minish Cap
+W36 Overworld Theme (Melee) - Attack on Vah Ruta/Loz: Botw
+*New* C08 Hyrule Field Theme (Remix) - Twinrova (AjumpsBshoots Mix)
+*New* C48 Saria's Theme - Canous/Extreme-G 2
+*New* C34 Overworld Theme - TLOZ: ALttP - Tal Tal Heights (Mikel n GameChops Remix)/TLoZ
+*New* C36 The Legend of Zelda Medley - Song of Storms (Jokabi Remix)/TLoZ
+===========
+
+Fire Emblem Series
+==========
+J39 Id (Purpose) - Id (Hope)/Fire Emblem: Fates
+J02 Fire Emblem Theme - Battling Marth (Amiibo)/Fire Emblem Fates
+J03 Shadow Dragon Medley - Blinded by Light/FFXII
+J07 Winning Road (Roy's Hope) - Proud Fight/Fire Emblem: Radiant Dawn
+J08 Attack (Fire Emblem) - Tension/Octopath Traveler
+J11 Power-Hungry Fool - Saber's Edge/FFXIII
+J12 Victory is Near - Ancient Mystery/Dragonball Budokai Tenkaichi 2
+J15 Battle 1 (Fire Emblem Gaiden) - Rival/Fire Emblem: Awakening
+J26 Lost in Thoughts All Alone (EN) - Road Taken (Roar)/Fire Emblem: Fates
+J25 Lost in Thoughts All Alone (JP) - Return to Nifl/Fire Emblem: Heroes
+J41B Fire Emblem: Three Houses Main Theme (NR) - The Encounter/Kingdom Hearts 2
+J43B The Edge of Dawn (Seasons of Warfare) - Twilight of the Gods/Fire Emblem Echoes: Shadows of Valentia
+J17 Fire Emblem: Mystery of the Emblem Medley - Battle! Frozen Seaway/Monster Hunter 4
+J18 Coliseum Series Medley - Arena (Give Your Back)/Monstr Hunter Tri
+R95 Code Name: FE - World's Largest Unicycle (Titanic Tower Boss Act)/Sonic:BtS
+R97 Lords - Showdown - Arid Sands (Shamar, Day)/Sonic Unleashed
+J32 Those Who Challenge Gods - Forgotten Realm (1st Round)/Tekken 7
+*New* J16 Meeting Theme Series Medley - Vega's Theme/Street Fighter V
+==========
+
+Mario Series
+(Placement broken down for best suggested listening experience)
+==========
+Luigi's Mansion Tracks
+-----------
+A09 Main Theme - Luigi's Mansion (Brawl) - Tsukimorino Toki/Melty Blood: Actress Again
+A42 Luigi's Mansion Series Medley - Caverna Del Pollo (Mundo de los Muertos)/Guacamelee
+A62 On the Hunt - Gloomy Manor Ver. (Instrumental) - Baron von Zieks ~ Grim Reaper of the Great Court/Dai Gyakuten Saiban
+Q04 Chill (Brawl) - Nube Negra/Bleach
+A47 Pandemonium - Creeping Shadows/Bleach
+A98 Title Theme - Mario Party: Island Tour - Clavar La Espada (Trap Remix)/Musicality
+A06 Castle/Fortress Boss - SMW/SMB3 - Strange Dreamer/Melty Blood: Actress Again
+R05 Mario Tennis/Mario Golf - Night Walker (Theme of Linne)/Under Night In-Birth
+A97 World Tour - Jungle Joyride (Adabat, Night)/Sonic Unleashed
+A91 Stadium Theme - Mario Tennis: Ultra Smash - Cool Edge (Holoska, Night)/Sonic Unleashed
+AA15 Country Field: Away Team - Mystic Haunt Zone (Act 1)/Sonic Rivals 2
+AA23 Title Theme - Mario Tennis Aces - Mystic Mansion/Sonic Heroes
+AA24 Stadium Theme - Mario Tennis Aces - Mansion Stage/Miitopia
+*New* A04 Underground Theme - Super Mario Land - Snow Sisters (Vatista Theme)/Under Night In-Birth
+*New* A76 Underground Moon Caverns - Eruditye Eyes (Chaos Theme)/Under Night In-Birth
+----------
+Delfino Plaza Tracks
+----------
+A01 Ground Theme - SMB (Brawl) - Vacation Stage/Miitopia
+A07 Title/Ending - SMW - Sea Stage/Miitopia
+A08 Main Theme - NSMB - Pe-Ri-Ca/Melty Blood: Actress Again
+A27 Ground Theme/Underwater Theme - SM3DL - Thalia Beach/Pokken Tournament
+ >*New* Fly Away/ChiyoTia
+A13 Delfino Plaza - Paraiso/Michiko to Hatchin
+A32 Super Mario Bros. Medley - Romantic Love (KTG Remix)/PaRappa the Rapper 2
+W01 Ground Theme - SMB (Melee) - Saturation/Ridge Racer 7
+AA05 Rolling Hills A - Costa Del Sol (Acapella)/Final Fantasy 7
+A72 Ground Theme - SMW - Spring/Tekken 6
+A15 Main Theme - SM64 - Jungle Joyride (Adabat, Day)/Sonic Unleashed
+A67 Slide - Estrada Da Estrela/Tekken 5: Dark Resurrection
+A75 Break Free (Lead the Way) - Delfino's Secret/Project M
+A41 Mario Paint Medley - Windmill Aisle (Apotos, Day)/Sonic Unleashed
+AA21 Plucky Pass Beginnings - Beach Party (Remix)/Super Mario 3D World
+-----------
+Paper Mario Tracks
+----------
+A74 Boss Theme - SMB2 - Adventure's End/Mario & Luigi: Dream Team
+A44 Ground Theme - NSMB2 - All That Remains/Mario & Luigi: Bowser Inside Story
+A71 Ground Theme - SMB - Shadow Queen, Part 2 (Breakbeat Remix)/Paper Mario: The Thousand Year Door
+A90 Battle! - Paper Mario: Color Splash - Fight Against an Armed Boss/SMRPG
+A99 Rocket Road - Beware the Forest Mushrooms/SMRPG
+AA16 This is Minion Turf! - Fight Against Smithy/SMRPG
+----------
+Mario Galaxy Tracks
+---------
+A65 Champion Road - Lava Lair/Super Mario Galaxy 2
+A39 Rosalina in the Observatory/Luma's Theme - Crashes to Ashes/Crash Bandicoot: Wrath of Cortex
+A56 Super Mario Galaxy - Over Worlds (Cloudy Crowd Act 2)/Sonic:BtS
+A54 Egg Planet - Flying High (Cloudy Crowd Act 1)/Sonic:Bts
+A71 Ground Theme - SMB - Shadow Queen, Part 2 (Breakbeat Remix)/Paper Mario: The Thousand Year Door
+----------
+Misc.
+----------
+A68 Ground Theme - SMB2 - Boo Boogie/DDR: Mario Mix
+A03 Underwater Theme - SMB - Blooper Bop/DDR: Mario Mix
+A33 Super Mario Bros.: The Lost Levels Medley - Monstrous Turtles/Zircon
+W15 Ground Theme - SMB3 (Melee) - Bowser's Castle/Project M
+AA14 Kingdom Stadium: Night - Bowser's Ramapage/Super Smash Flash 2
+A17 Mario Bros. - Into the Castle/TekNaloG
+AA04 Title Theme - Mario vs Donkey Kong: Tipping Stars - Boss Phase (Eggman)/SvsD:TNR
+==========
+
+Other Series
+==========
+Duck Hunt
+--------
+Q17 The Mysterious Murasame Castle Medley - Metro Madness (Boss Act)/Sonic:BtS
+Q19 Duck Hunt Medley (3DS/Wii U) - Bgrusko Meow/Hally
+Q01 Famicom Medley - Reverse?/No Game, No Life
+Q14 Douchuumen - The Mysterious Murasame Castle - The Rules/No Game, No Life
+Q08 Shin Onigashima Medley - Pursuit (Cornered)/Phoenix Wright: Ace Attorney
+Q09 Title Theme - 3D Hot Rally - Holy Summit (Crater)/Sonic Battle
+Q10 Tetris: Type A - Battle of Bloom/Sonic Shuffle
+Q30 Yuyuki Medley - Feel Noisy/Sonic Shuffle
+R41 Culdcept - Whispering Storm/Sonic Shuffle
+--------
+Find Mii 
+--------
+R89 Filled With Hope - Sub-Zero, White Knight (Belioros/Barioth)/Monster Hunter Tri
+R98 Revolt -Striving for Hope- Sound of the Great Mountain (Agnaktor)/Monster Hunter Tri
+RR13 Frontier Battle - Crashes to Ashes/Crash Bandicoot: Wrath of Cortex
+R35 Glory of Heracles - Black Sage/Miitopia
+R37 Boss 1 - Sakura Samurai: Art of the Sword - Tower/Miitopia
+R27 Dark Lord - Ultra Demon Lord/Miitopia
+R66 Dillon's Rolling Western: The Last Ranger - World 4/Miitopia
+R60 Weyard - World 6/Miitopia
+--------
+Pilot Wings - Wuhu Island 
+--------
+R72 Wii Shop Channel - Flight Thrills (Cyan City, Act 2)/Sonic:AtS 
+R10 Mii Channel - Mantra (Foliage Furnace, Act 3)/Sonic:AtS
+R87 Tennis (Training) - Sea/Miitopia
+R33 Wii Sports Resort Ver. 2 - Vacation/Miitopia
+R81 Title Theme - Wii Sports - Tea with Ellie (Cyan City, Act 1)/Sonic:AtS
+R31 Wii Sports Series Medley - Memories (Horizon Heights, Act 3)/Sonic:AtS
+R88 Baseball (Training) - Pushed By the Waves (Fortress Flow, Act 2)/Sonic:BtS
+Q26 Light Plane - Mt. Red, A Symbol of Thrills/Sonic Adventure
+Q12 Tunnel Scene - X - Kujikawa's Theme/Persona 4 Arena
+Q23 Light Plane (Vocal Mix, 3DS/Wii U) - Espresso with Bayonetta (Cyan City, Act 3)/Sonic:AtS
+R48 Title Theme - Wii Sports Resort - Hot n' Cold (Horizon Heights, Special Act)/Sonic:AtS
+--------
+Summit 
+--------
+R14 Excite Truck - Crystal Mountain Zone (Act 2)/Sonic Rivals
+Q05 Clu Clu Land - Game Planet Starlight/Bomberman 64: The Second Attack
+W13 Ice Climber (Melee) - Frost Man Stage/Mega Man 8
+R07 Marination Gear - Staff Roll (Remix)/Marvel vs Capcom
+R17 Charge! - Wii Play - Track Mountain/S.C.A.R.S
+--------
+Tomodachi Life - Pictochat - Living Room 
+--------
+R18 Bathtime Theme (3DS/Wii U) - Louvre Museum Invasion/Rhythm Thief
+R08 Title Theme - Big Brain Academy - Space Encounter/Sonic Shuffle
+R71 Monkey Watch - Vs Rotatatron & Refreshinator/Sonic Colors
+R15 Brain Age: TYBiMaD - 80's/90's Boulevard/Sonic Riders:Zero Gravity
+--------
+Wrecking Crew 
+--------
+W18 Mach Rider - Verbal (Topo Gogio Remix)/Amon Tobin
+R52 Performance - Shotgun Senorita (Zardonic Remix)/Blue Stahli
+R51 Tomorrow's Passion - Electro Basement/DJ Chef
+R61 Swan Lesson - Mori Park/Fast Racing NEO
+R38 Freakyforms: Your Creations, Alive! Medley - Theme of Morrigan/Marvel vs Capcom 3
+Q24 Wrecking Crew Retro Medley - Theme of Jedah Dohma/Marvel vs Capcom: Infinite
+Q13 Power-Up Music (Wrecking Crew) - Vacetious Blooms/Neotropic
+Q02 Stack-Up/Gyromite - Rhythm and Balance (White Jungle)/Sonic Adventure 2
+-------
+Misc.
+-------
+*New* R70 Blue Birds - Rock Solid/Conker's Bad Fur Day
+R09 Golden Forest - Trouble Maker/Mischief Makers
+ >*New* Pleasant Thief/Mega Man X Command Mission
+*New* Q06 Balloon Trip (Brawl) - Twinkle Snow (Act 1)/Sonic Advance 3
+R91 Arcade Bunny's Theme - Club Rouge/Sonic Battle
+ >*New* Blue Star Casinopolis/Sonic Adventure
+*New* R22 Afternoon on the Island (3DS/Wii U) - Continental Train/Ergheiz: God Bless the Ring
+*New* RR07 Dawn in the Desert - Of Devious Machinations/Shovel Knight
+R20 Mii Plaza - Sweet Mountain (Act 1)/Sonic Colors
+ >*New* Sweet Mountain (Act 2)/Sonic Colors
+*New* R64 Title Theme - Nintendo Land - Dungeon 3/Dragalia Lost
+*New* R67 Title Theme - NES Remix 2 - Gigapolis Zone (Classic Gens Remix)/Sonic Chaos
+==========
+
+*New* Banjo-Kazooie Series
+-------
+*New* BK10 Vs. Lord Woo Fak Fak - Trouble Maker/Mischief Makers (bgm_bk10_bk2_vswoofakfakdaiou)
+==========
+
+*New* Castlevania Series
+-------
+*New* AD38 Vampire Killer - Jaws of a Scorched Earth/Castlevania: Order of Ecclesia
+==========
+
+*New* Tekken Series
+-------
+*New* TK01 Chicago, U.S.A. - Blue Monday Erectrical Parade/Gurren Lagan
+*New* TK02 Marine Stadium, Japan - Fighting Blossom (Virtua Fighter Stage)/Dengeki Bunko Fighting Climax
+*New* TK03 Kyoto, Japan - Ogre (Arcade ver.)/Tekken Tag Tournament
+*New* TK04 Heihachi Mishima, the King of Iron Fist - Unknown's Theme (Arcade ver.)/Tekken Tag Tournament
+==========
+
+Victory Themes
+==========
+Z00 Mii - Success/Miitopia
+Z01 Mario - You Got a Moon/Mario Odyssey
+Z02 Donkey Kong - Victory/DKC: Tropical Freeze
+Z03 Link - Victory Fanfare/LoZ: Twilight Princess
+Z04 Samus - Samus Aran Appears/Samus Returns
+Z06 Kirby - Kirby Dance (Short ver.)/Kirby Series
+Z08 Pikachu - Victory Theme/SSB64
+Z09 Luigi - Luigi Mansion Medley (Up Tempo)
+Z10 Capitain Falcon - Finish to Go!/F-Zero GX
+Z11 Ness - Title Screen/Earthbound
+Z12 Bowser - Victory Theme 3.6/PM
+Z14 Zelda - Arrows of Light (Custom Mix)
+Z15 Sheik - Sheik's Theme (Short ver.)/Ocarina of Time
+Z19 Falco - Vs Victory Theme/SF Assault
+**Z19 Falco (Alt) - FDB Instrumental (lol)**
+Z20 Ganondorf - Victory/Hyrule Warriors
+Z21 Wario - Boss Defeated/Wario World
+Z23 Pit - Match Results/Kid Icarus: Uprising
+Z24 Zero Suit Samus - Samus Victory Theme/SSBM
+Z27 Diddy - First!/Diddy Kong Racing
+Z28 PKMN Trainer (Squirtle/Ivysaur) - Red & Blue Theme (Orchestral ver.)/PKMN Series
+Z32 King Dedede - Dedede Dream Friend Jingle/Kirby Star Allies
+Z33 Lucario - Battle Results/Pokken Tournament (Extended theme)
+Z34 Ike - Player Phase 2/ FE: Path of Radiance
+Z37 Jigglypuff - Victory!/Jigglypuff (What if)
+Z41 Toon Link - Title Theme/A Link Between Worlds
+Z47 Sonic - Stage Clear/Sonic Adventure 2
+Z59 Charizard - Phos Volcano/Pokken Tournament
+Z60 Doctor Mario - Too Many Cooks (8 Bit Remix)
+Z61 Lucina/Chrom - Let's See What I'm Capable of/FE: Awakening
+Z72 Greninja - PokeDex Evaluation...It's Amazing!/Pokemon X/Y
+Z80 Mewtwo - The Birth of Mewtwo (Ending)/PKMN: Mewtwo Strikes Back
+Z81 Ryu/Ken - Opening Demo/SF3: 3rd Strike
+Z83 Roy - Winning Road ~ Roy's Hope/FE: Binding Blade
+Z85 Cloud - Victory Fanfare, FF7 (Holder & Ephixa Mix) (Extended theme)
+Z89 Young Link - Master Sword Theme (Short ver.)/Ocarina of Time
+Z90 Isabelle - Dodo Airlines/AC: New Horizons
+Z91 Incineroar - Guzma Encounter/PKMN Su/Mo (Extended theme)
+*New* Z95 King K. Rool - K. Rool Battle Theme (Matt Houston x Arzon Remix) (Extended theme)
+*New* ZZ05 Sephiroth - Sephiroth Theme (Holder Remix) (Extended theme)
+==========
