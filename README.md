@@ -1,12 +1,20 @@
 # niri-rice
-Whatever my current niri rice is atm since the Hyprland dev is a transphobe
+I mean it's kind of cool, I guess.
 
 ## Dependencies
 
 - niri
 - waybar
 - wofi
-- mpv (yes I'm serious)
+- xwayland-satellite
+- kitty
+- pulsemixer
+- mpv
 - bash
 - all of the scripts in ~/.local/bin (make them executable)
+- the .sounds folder in your home directory
 - swaybg
+- Inconsolata font
+- Fira Sans font
+
+You *will* need to edit your niri config, unless your name is also coincidentally Ali.

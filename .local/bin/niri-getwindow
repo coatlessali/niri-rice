@@ -1,6 +1,11 @@
 #!/bin/bash
-while true
+while true 
 do
-	niri msg focused-window | grep Title | sed 's/Title: //g' | sed 's/\"//g'
+	window_title=$(niri msg -j focused-window | jq -r '.title // ""')
+	if ((${#window_title} > 64)); then
+		echo " ${window_title:0:64}..."
+	else
+	    echo " $window_title"
+	fi
 	sleep 0.0416
 done

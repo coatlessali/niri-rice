@@ -1,10 +1,10 @@
 * {
-	font-family: SCE-PS3 Rodin LATIN;
+	font-family: Fira Sans;
 	font-size: 20
 }
 
 window {
-	background-color: rgba(0, 0, 0, 0.0);
+	background-color: rgba(0, 0, 0, 0.5);
 	border-left: 1px solid #657b83;
 	border-right: 1px solid #657b83;
 	border-top: 1px solid #657b83;
