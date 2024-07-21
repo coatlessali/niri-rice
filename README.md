@@ -1,5 +1,6 @@
 # niri-rice
 I mean it's kind of cool, I guess.
+![niri-rice](https://github.com/user-attachments/assets/e6e32d1d-75ba-4424-ad69-9c902fc7c521)
 
 ## Dependencies
 
