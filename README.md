@@ -18,3 +18,5 @@ I mean it's kind of cool, I guess.
 - Fira Sans font
 
 You *will* need to edit your niri config, unless your name is also coincidentally Ali.
+
+Wallpaper: https://wallhaven.cc/w/y8lm9d
